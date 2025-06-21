@@ -2,6 +2,7 @@
 A one-click installation script for an HTTPS image hosting service on Ubuntu VPS.
 一键脚本
  `curl -sL https://raw.githubusercontent.com/cjap111/image-bed-installer/main/install_image_bed.sh -o /tmp/install_image_bed.sh && sudo chmod +x /tmp/install_image_bed.sh && sudo /tmp/install_image_bed.sh`
+ 
 Image Bed Installer (图床一键安装脚本)
 Secure, Controllable, and Automated Image Hosting Solution on Ubuntu VPS
 安全、可控、自动化维护的 Ubuntu VPS 图床解决方案
